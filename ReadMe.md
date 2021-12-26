@@ -1,4 +1,4 @@
-Hello, this is a base template for any hand detection project. I request you to not claim it as your own.
+Hello, this is a base template for any hand detection project
 Libraries required:
 1) cvzone: pip install cvzone
 2) mediapipe: pip install mediapipe
