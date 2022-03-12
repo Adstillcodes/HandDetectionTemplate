@@ -1,4 +1,7 @@
 Hello, this is a base template for any hand detection project
+
+
+
 Libraries required:
 1) cvzone: pip install cvzone
 2) mediapipe: pip install mediapipe
